@@ -1,6 +1,7 @@
 # DisneyAlarmClock
-**Alarm clock app with challenges**
-**2 challenges**
+**Alarm clock app with 2 challenges**
+
+
 1. Challenge Questionnaire
 2. challenge is a memory game
 
